@@ -1,0 +1,11 @@
+{
+    "workbench.startupEditor": "none",
+    "atomKeymap.promptV3Features": true,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.formatOnPaste": true,
+    "explorer.confirmDelete": false,
+    "security.workspace.trust.untrustedFiles": "open",
+    "files.associations": {
+        "config": "bat"
+    }
+}
